@@ -1,6 +1,8 @@
 # Pitch Deck
 
-Refer to the Pitch Deck if you're confused about any aspect of the game or contact Ethan or Taylor.
+Refer to the Pitch Deck (found below) if you're confused about any aspect of the game or contact Ethan or Taylor.
+
+https://docs.google.com/presentation/d/1_5fOWwrgCRSGum7QMVXVh687RyM1544ZBm-EQroLQz8/edit?usp=sharing
 
 # 2D-Template
 
