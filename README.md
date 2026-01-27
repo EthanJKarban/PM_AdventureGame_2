@@ -1,4 +1,4 @@
-#Pitch Deck
+# Pitch Deck
 
 Refer to the Pitch Deck if you're confused about any aspect of the game or contact Ethan or Taylor.
 
