@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 42f4698cac744794e9a740bd827f5412
-=======
-guid: 4a0debc824b13be409dda14d49baa85a
->>>>>>> c27d8d0d1cd1b49ccee2772584211a102f9f2dc5
+<<<<<<<< HEAD:Assets/David/Maps/Map 1.unity.meta
+guid: e4b208ce3bf2ed14295bba47bacec036
+========
+guid: 0fff09a0bb6cb834f90e467d1cba148c
+>>>>>>>> f7141fe8dafa863e13ccfad9423263f5e66a34d5:Assets/Scenes/Rian test.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
